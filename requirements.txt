@@ -2,3 +2,5 @@ fastapi
 urllib3
 json5
 pandas
+gunicorn
+uvicorn
